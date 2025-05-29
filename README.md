@@ -19,22 +19,17 @@ source venv/bin/activate
 ```
 Для пользователей Windows активация виртуального окружения происходит так:
 
-# Для Windows PowerShell используйте:
-```
-.\venv\Scripts\Activate.ps1
-```
-
 # Для Windows CMD используйте:
 ```
 venv\Scripts\activate.bat
 ```
 Установите необходимые зависимости:
 ```
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 Запустите приложение Streamlit:
 ```
-streamlit run app.py
+py -m streamlit run app.py
 ```
 Перейдите в браузере по адресу:
 http://localhost:8501
