@@ -9,8 +9,8 @@
 # Инструкция по установке и запуску
 Склонируйте репозиторий командой:
 ```
-git clone (сюда ссылку на гитхаб)
-cd predictive-maintenance
+git clone https://github.com/KlyuchnikovaKA/predictive_maintenance_project
+cd predictive_maintenance_project
 ```
 Создайте и активируйте виртуальное окружение:
 ```
