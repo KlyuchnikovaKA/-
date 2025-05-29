@@ -14,8 +14,7 @@ cd predictive_maintenance_project
 ```
 Создайте и активируйте виртуальное окружение:
 ```
-python3 -m venv venv
-source venv/bin/activate
+py -m venv venv
 ```
 Для пользователей Windows активация виртуального окружения происходит так:
 
